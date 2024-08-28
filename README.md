@@ -1,3 +1,11 @@
+## Tech Stack
+
+| **Category** | **Technologies** |
+|--------------|-------------------|
+| Programming Languages | ![Python](https://img.shields.io/badge/Python-A8E1DB?style=flat-square&logo=Python&logoColor=white) |
+| Design Tools | ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma&logoColor=130613) |
+| Web Technologies | ![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=130613) ![CSS](https://img.shields.io/badge/CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=130613) |
+
 ## Stats
 <div align="center">
 <div style="display: flex; width: 100%;">
