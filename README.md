@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwhan12&layout=compact&theme=buefy" style="flex: 1; width: 48%; height: 170px; object-fit:cover;">
   </div>
   
-<div align="right">
+<div align="right" style="margin-top: 20px;">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwhan12%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
   </div> 
 </div>
