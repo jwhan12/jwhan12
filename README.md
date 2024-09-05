@@ -10,12 +10,12 @@
 
 ## Stats
 <div align="center">
-<div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jwhan12&show_icons=true&theme=buefy" style="flex: 1; width: 48%;, height: 170px; object-fit: cover; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwhan12&layout=compact&theme=buefy" style="flex: 1; width: 48%; height: 170px; object-fit:cover;">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jwhan12&show_icons=true&theme=buefy" style="flex: 1; width: 48%;, height: 170px; object-fit: cover; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwhan12&layout=compact&theme=buefy" style="flex: 1; width: 48%; height: 170px; object-fit:cover;">
   </div>
   
 <div align="right">
-<br><br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwhan12%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwhan12%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
+  </div> 
 </div>
